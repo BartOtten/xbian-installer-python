@@ -1,2 +1,0 @@
-xbian-installer-python
-======================
